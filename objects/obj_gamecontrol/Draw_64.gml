@@ -1,0 +1,1 @@
+draw_text(0,16,"Pontos: "+string(global.score)+"\nTempo: "+string(time_min)+":"+string(time_sec))
